@@ -1,0 +1,12 @@
+{
+    "api": {
+        "host": [
+            "https://test.nifymon.com"
+        ],
+        "git": [
+            "https://raw.githubusercontent.com/GoodLite6/goodlite/refs/heads/main/good"
+        ],
+        "connreport": "https://re.nyrafuldol.com/info.php",
+        "greport": "https://ai.nyrafuldol.com"
+    }
+}
