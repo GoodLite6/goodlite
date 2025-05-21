@@ -1,0 +1,12 @@
+{
+    "api": {
+        "host": [
+            "https://docs.sunnyrainbow.baby"
+        ],
+        "git": [
+            "https://raw.githubusercontent.com/vpnifytool/toolinfo/refs/heads/main/info"
+        ],
+        "connreport": "https://re.nyrafuldol.com/info.php",
+        "greport": "https://ai.nyrafuldol.com"
+    }
+}
